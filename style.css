@@ -14,3 +14,12 @@ body{
     padding-top: 95px;
     padding-left: 15px;
 }
+
+#color-block.color1{
+    background-color: #F08080;
+}
+
+#color-block.color2{
+    background-color: #0000ff;
+}
+
